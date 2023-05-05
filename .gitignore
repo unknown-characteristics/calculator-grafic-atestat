@@ -396,3 +396,11 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# extra
+exe_bak/
+OLD_MATE_BAK/
+*.txt
+*.diagsession
+*.ico.bak
+documentatie.docx
