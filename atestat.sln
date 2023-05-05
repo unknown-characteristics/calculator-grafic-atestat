@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "atestat", "atestat.vcxproj", "{81EBD18C-EC28-45F7-B97A-9807BF41AFAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81EBD18C-EC28-45F7-B97A-9807BF41AFAF}.Debug|x64.ActiveCfg = Debug|x64
+		{81EBD18C-EC28-45F7-B97A-9807BF41AFAF}.Debug|x64.Build.0 = Debug|x64
+		{81EBD18C-EC28-45F7-B97A-9807BF41AFAF}.Debug|x86.ActiveCfg = Debug|Win32
+		{81EBD18C-EC28-45F7-B97A-9807BF41AFAF}.Debug|x86.Build.0 = Debug|Win32
+		{81EBD18C-EC28-45F7-B97A-9807BF41AFAF}.Release|x64.ActiveCfg = Release|x64
+		{81EBD18C-EC28-45F7-B97A-9807BF41AFAF}.Release|x64.Build.0 = Release|x64
+		{81EBD18C-EC28-45F7-B97A-9807BF41AFAF}.Release|x86.ActiveCfg = Release|Win32
+		{81EBD18C-EC28-45F7-B97A-9807BF41AFAF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A1AD8F0-E22E-4E85-BCE1-BD28EAA50DD6}
+	EndGlobalSection
+EndGlobal
